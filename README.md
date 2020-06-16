@@ -1,4 +1,4 @@
 AWS Code Deploy
 =============
 
-CI/CD testing
+AWS CI/CD testing
